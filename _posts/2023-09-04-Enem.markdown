@@ -95,6 +95,7 @@ Resultados e Discussão
 Em um primeiro momento, foi realizada uma exploração dos dados a fim de analisar relações possíveis entre as variáveis disponíveis nos microdados do Enem. Percebeu-se que a quantidade de mulheres inscritas em 2011 é significativamente maior que a de homens. Mais adiante, veremos como isso surpreende quando relacionado às notas dos homens que são historicamente mais altas, ainda que estejam em menor número nas inscrições do exame.
 
 
+![IMDb page](/_posts/Images/figura 1.png)
 Figura 1. Quantidade de inscritos no Enem 2011 por gênero
 Fonte: Resultados originais da pesquisa
 
