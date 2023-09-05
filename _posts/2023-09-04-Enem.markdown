@@ -95,15 +95,16 @@ Resultados e Discussão
 Em um primeiro momento, foi realizada uma exploração dos dados a fim de analisar relações possíveis entre as variáveis disponíveis nos microdados do Enem. Percebeu-se que a quantidade de mulheres inscritas em 2011 é significativamente maior que a de homens. Mais adiante, veremos como isso surpreende quando relacionado às notas dos homens que são historicamente mais altas, ainda que estejam em menor número nas inscrições do exame.
 
 
-![IMDb page](/_site/assets/imagens/figura 1.png)
+![IMDb page](/assets/images/figura%201.png)
 Figura 1. Quantidade de inscritos no Enem 2011 por gênero
 Fonte: Resultados originais da pesquisa
 
 A quantidade de pessoas pardas e brancas inscritas em 2011 é consideravelmente maior do que a de pessoas autodeclaradas pretas, amarelas e indígenas. Em 2011, brancos e pardos são os grupos com maior quantidade de inscritos.
 
-![IMDb page](/_site/assets/imagens/figura 2.png)
+![IMDb page](/assets/images/figura%202.png)
 Figura 2. Quantidade de inscritos no Enem 2011 por raça
 Fonte: Resultados originais da pesquisa
+
 
 
 Em 2020, mais pessoas se autodeclaram pardas, e menos pessoas se identificam como brancas. Neste ano, como é possível observar nos gráficos abaixo, foi também discrepante a diferença entre homens e mulheres inscritos. Seguindo o que se observou no ano anterior, em 2011. 
